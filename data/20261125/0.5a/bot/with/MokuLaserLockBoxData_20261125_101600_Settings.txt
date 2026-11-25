@@ -1,0 +1,14 @@
+% Saved 2026-11-25 T 10:16:00 +0100
+Moku:Go Laser Lock Box
+Input 1, DC, 30 MHz, 1 MOhm, 0 dB, 10 Vpp, 0 dB digital gain
+Input 2, DC, 30 MHz, 1 MOhm, 0 dB, 10 Vpp
+Demodulation: None
+Lowpass filter: 4th-order Butterworth Lowpass, corner frequency 100.0 kHz, sampling rate 7.8125 MHz
+Setpoint: -125.2 mV
+Fast controller: PID controller, off, invert off
+Slow controller: PI controller, proportional gain -24.2 dB, integrator crossover 4.901 Hz, integrator saturation +8.4 dB, invert off
+Scan - Triangle, 4.000 000 Hz, 2.000 Vpp, Output 2
+Modulation - 1.000 000 000 000 MHz, 500 mVpp, off
+Output 1 - control signal disabled, offset 0.000 0 V, limits disabled, output disabled
+Output 2 - control signal disabled, offset 0.000 0 V, limits disabled, output enabled
+
